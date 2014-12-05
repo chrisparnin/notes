@@ -258,6 +258,8 @@ example, developer’s age, project maturity, and team-sizes. Which means
 what works well for today’s office may not work well for tomorrow’s
 office.
 
+Related notes on [open-office experiences](https://mcwiggins.backpackit.com/pub/2940758-open-office-pathology).
+
 [Hutchins:1995]: http://hci.ucsd.edu/hutchins/citw.html
 [Wegner:transactive:memory:91]: http://scholar.harvard.edu/files/dwegner/files/wegnererberraymond1991.pdf
 [Jones+Fleming:2013]: http://dx.doi.org/10.1109/VLHCC.2013.6645252
