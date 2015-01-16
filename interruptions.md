@@ -258,7 +258,7 @@ example, developer’s age, project maturity, and team-sizes. Which means
 what works well for today’s office may not work well for tomorrow’s
 office.
 
-Related notes on [open-office experiences](https://mcwiggins.backpackit.com/pub/2940758-open-office-pathology).
+Related notes on [open-office experiences](https://mcwiggins.backpackit.com/pub/2940758-open-office-pathology), [David Fullerton: Why we still believe in private offices](http://blog.stackoverflow.com/2015/01/why-we-still-believe-in-private-offices/).
 
 [Hutchins:1995]: http://hci.ucsd.edu/hutchins/citw.html
 [Wegner:transactive:memory:91]: http://scholar.harvard.edu/files/dwegner/files/wegnererberraymond1991.pdf
